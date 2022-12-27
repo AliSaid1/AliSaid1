@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliSaid1
 - 👀 I’m interested in programming especially in Software and Web development.
-- 🌱 I’m currently learning Java, Python and MySQL Database.
+- 🌱 I’m currently learning Java, Python, MySQL Database, HTML and CSS. 
 - 💞️ I’m looking to collaborate on building/developing Desktop Softwares.   
 - 📫 Email: ali.y.said1996@gmail.com 
 
