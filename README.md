@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, Python, MySQL Database, HTML and CSS. 
 - 💞️ I’m looking to collaborate on building/developing Desktop Softwares. 
 - 💻 I'm working currently on fun projects using Java and MySQL Database.
-- 📫 Email: ali.y.said1996@gmail.com 
+  
 
 <!---
 AliSaid1/AliSaid1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
